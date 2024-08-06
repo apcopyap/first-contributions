@@ -20,6 +20,7 @@
 - [Siniade](https://github.com/Siniade) **First open source contribution!**
 - [Mahumitha-b](https://github.com/madhumitha-b)
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
+- [Vishruth23](https://github.com/Vishruth23) **First OSC**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
@@ -166,6 +167,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 - Jeferson Ramos Fonseca
 - Alan Lucas De Souza
 - malka
+- [Subham Agarwala](https://github.com/subham-agarwal05)
 - [Krithik Ravindran](https://github.com/krithikravi) **First of many hopefully**
 - Asyraf Zaid first contribution on GitHub [Hi developers!]
 - [Joseph W. Allen](https://github.com/jwallen3801) **Hey everybody**
@@ -446,6 +448,7 @@ mh
 - [Philippe Renard](https://github.com) Test contrib
 - [David Jones] (https://github.com/daj7) First contribution
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+- [lovepop1](https://github.com/lovepop1) *** nakn ***
 - [Naveen Singh](https://github.com/sisyphusisstillcarrying) ***starting over. Hope it works out this time. Aims to be an AI/ML Engineer in the future. God bless!!***
 - [Sohum Chandra Srivastava](https://github.com/sohumcs) *** Trying Open Source ***
 - [Kolade Elizabeth](https://github.com/Lizzy223) *** My first contribution!!! ***
